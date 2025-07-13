@@ -11,7 +11,7 @@ C++ is an object oriented programming language based on C.
 
 ### Object Oriented
 
-In object oriented programming, we are using objects ([classes]()) to manage behaviors all along the code.
+In object oriented programming, we are using objects ([classes](https://github.com/Modz-Innovation/Cpp-cheat-sheet/wiki/What-is-a-class)) to manage behaviors all along the code.
 
 this mean that ***stand alone functions*** are barely forbiden. Make it a class.
 
