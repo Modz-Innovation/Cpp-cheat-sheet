@@ -22,6 +22,6 @@ this mean that it is very flexible and maintainable. the C++ standart is very ri
 
 The main reason why we choose C++ languages for Modz innovation projects is because of optimization and maintnability with Epitech students.
 
-Here is the [Wiki]()
+Here is the [Wiki](https://github.com/Modz-Innovation/Cpp-cheat-sheet/wiki)
 
 <img src="https://pbs.twimg.com/profile_images/1907067486324809728/oCX3IQ0A_400x400.jpg" width="400" height="400"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd6oCO52k6x5PDWGXOxRLop41ThoOIy54m7w&s" width="400" height="400"/>
